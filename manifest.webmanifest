@@ -1,0 +1,10 @@
+{
+  "name": "ASCEND — Glow Up RPG",
+  "short_name": "ASCEND",
+  "description": "Your local-first 180-day transformation RPG.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090a12",
+  "theme_color": "#090a12",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
